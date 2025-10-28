@@ -1,5 +1,5 @@
 vvce
 cse
-amoghk
+amoghkurs
 5thsem
 This is Devops class
