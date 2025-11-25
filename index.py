@@ -1,0 +1,1 @@
+print("amogh k urs")
